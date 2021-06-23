@@ -2,6 +2,6 @@
   "name": "JD task gallery",
   "description": "see you later",
     "task":[
-        "5 0 * * * https://raw.githubusercontent.com/jiangwenjun520/-QuantumultX-Script/main/JD_DailyBonus.js, tag=京东 , img-url=https://raw.githubusercontent.com/jiangwenjun520/-QuantumultX-Script/main/JD_DailyBonus.png"
+        "5 0 * * * https://raw.githubusercontent.com/jiangwenjun520/QuantumultX-Script/main/JD_DailyBonus.js, tag=京东 , img-url=https://raw.githubusercontent.com/jiangwenjun520/QuantumultX-Script/main/JD_DailyBonus.png"
     ]
 }
